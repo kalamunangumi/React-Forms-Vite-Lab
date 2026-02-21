@@ -32,5 +32,18 @@
     "jsdom": "^26.0.0",
     "vitest": "^2.0.5",
     "mocha": "^8.2.1"
-  }
+  },
+  "description": "- Implement a controlled form",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalamunangumi/React-Forms-Vite-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalamunangumi/React-Forms-Vite-Lab/issues"
+  },
+  "homepage": "https://github.com/kalamunangumi/React-Forms-Vite-Lab#readme"
 }

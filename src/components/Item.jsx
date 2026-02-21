@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 function Item({ name, category }) {
   const [isInCart, setIsInCart] = useState(false);
